@@ -70,26 +70,27 @@
 .form-content-form-inp1, .form-content-form-inp2 {
     position: absolute;
     width: 510px;
-    height: 55px;
+    height: 20px;
     border-top: none;
     border-left: none;
     border-right: none;
     background: none;
+    border-bottom: 1px solid rgba(51, 51, 51, 0.5);
+    outline: 0;
+    outline-offset: 0;
 }
 
 .form-content-form-inp1 {
     left: 60px;
-    top: 25px;
+    top: 50px;
 }
 
 .form-content-form-inp2 {
     left: 60px;
-    top: 96px;
+    top: 120px;
 }
 
 ::-webkit-input-placeholder  {
-    position: absolute;
-    top: 30px;
     width: 43px;
     height: 16px;
     font-family: 'Montserrat', sans-serif;
@@ -101,8 +102,6 @@
     opacity: 0.4;
 }
 ::-moz-placeholder {
-    position: absolute;
-    top: 30px;
     width: 43px;
     height: 16px;
     font-family: 'Montserrat', sans-serif;
@@ -114,8 +113,6 @@
     opacity: 0.4;
 }
 :-moz-placeholder {
-    position: absolute;
-    top: 30px;
     width: 43px;
     height: 16px;
     font-family: 'Montserrat', sans-serif;
@@ -127,8 +124,6 @@
     opacity: 0.4;
 }
 :-ms-input-placeholder {
-    position: absolute;
-    top: 30px;
     width: 43px;
     height: 16px;
     font-family: 'Montserrat', sans-serif;

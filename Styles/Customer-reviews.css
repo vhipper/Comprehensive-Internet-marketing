@@ -1,0 +1,140 @@
+
+
+.Customer-reviews {
+    position: absolute;
+    width: 1372px;
+    height: 624px;
+    left: 114px;
+    top: 7193px;
+}
+
+.Customer-reviews-text {
+    position: absolute;
+    width: 515px;
+    height: 46px;
+    left: 86px;
+    top: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 120%;
+    color: #212121;
+}
+
+.Customer-reviews-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 32px;
+    gap: 10px;
+    position: absolute;
+    width: 250px;
+    height: 52px;
+    left: 580px;
+    top: 670px;
+    border: 1px solid #FF5900;
+    border-radius: 100px;
+    background: none;
+}
+
+.Customer-reviews-btn:hover {
+    transform: scale(1.1);
+}
+
+.Customer-reviews-btn-span {
+    width: 200px;
+    height: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #FF5900;
+}
+
+.container {
+    margin-top: 150px;
+    margin-left: 86px;
+    max-width: 1340px;
+}
+
+.slider__wrapper {
+    overflow: hidden;
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+.slider__item {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+@media (min-width: 1200px) {
+    .slider__item {
+        flex: 0 0 33.3333333333%;
+        max-width: 33.3333333333%;
+    }
+}
+.slider__content_text {
+    background: #F4F4F4;
+    display: flex;
+    padding: 20px 15px;
+    width: 360px;
+    height: 420px;
+}
+
+.slider {
+    position: relative;
+}
+
+.slider__container {
+    overflow: hidden;
+}
+
+.slider__items {
+    display: flex;
+    transition: transform 0.5s ease;
+    will-change: transform;
+}
+
+.slider__control {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: none;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.slider__control[data-slide="prev"] {
+    position: absolute;
+    top: 250px;
+    left: -100px;
+}
+
+.slider__control[data-slide="next"] {
+    position: absolute;
+    top: 250px;
+    left: 1300px;
+}
+
+.slider__control::before {
+    content: "";
+    display: inline-block;
+    width: 56px;
+    height: 56px;
+    background: transparent no-repeat center center;
+    background-size: 100% 100%;
+}
+
+.slider__control[data-slide="prev"]::before {
+    background-image: url("../Images/Customer-reviews/left.svg");
+}
+
+.slider__control[data-slide="next"]::before {
+    background-image: url("../Images/Customer-reviews/right.svg");
+}

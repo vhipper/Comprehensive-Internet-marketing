@@ -1,0 +1,177 @@
+
+
+header {
+    display: flex;
+    position: absolute;
+    width: 1600px;
+    height: 184px;
+    left: 0;
+    top: 0;
+    background: #FFFFFF;
+}
+
+.header-div {
+    width: 1600px;
+    height: 184px;
+}
+
+.Logo {
+    width: 185px;
+    height: 48px;
+    margin-left: 200px;
+    margin-top: 28px;
+    background: url("../Images/Header/Logo.svg") no-repeat center center;
+    background-size: 100% 100%;
+}
+
+.sell {
+    display: flex;
+    width: 331px;
+    height: 20px;
+    margin-left: 562px;
+    margin-top: -35px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    opacity: 0.7;
+}
+
+.Contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0;
+    gap: 40px;
+    width: 398px;
+    height: 52px;
+    margin-left: 990px;
+    margin-top: -50px;
+}
+
+.number {
+    width: 136px;
+    height: 18px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #212121
+}
+
+.BtnCall {
+    cursor: pointer;
+    color: #FF5900;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 28px;
+    gap: 10px;
+    width: 222px;
+    height: 52px;
+    border: 1px solid #FF5900;
+    border-radius: 100px;
+    background: none;
+}
+
+.BtnCall:hover {
+    transform: scale(1.1);
+}
+
+.BtnCall span {
+    width: 140px;
+    height: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    color: #FF5900;
+}
+
+.menu-down {
+    position: absolute;
+    width: 1600px;
+    height: 80px;
+    left: 0;
+    margin-top: 104px;
+    background: #FFFFFF;
+    border-width: 1px 0;
+    border-style: solid;
+    border-color: rgba(51, 51, 51, 0.1);
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0;
+    gap: 40px;
+    width: 1202px;
+    height: 24px;
+    margin-left: 200px;
+    margin-top: 28px;
+}
+
+.increase-in-sales, .creating-websites, .support, .bitrix , .company, .reviews, .cases, .contacts, .search {
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 120%;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    color: #212121;
+}
+
+.increase-in-sales {
+    width: 179px;
+    height: 17px;
+}
+
+.creating-websites {
+    width: 160px;
+    height: 17px;
+}
+
+.support {
+    width: 100px;
+    height: 17px;
+}
+
+.bitrix {
+    width: 94px;
+    height: 17px;
+}
+
+.company {
+    width: 109px;
+    height: 17px;
+}
+
+.reviews {
+    width: 69px;
+    height: 17px;
+}
+
+.cases {
+    width: 55px;
+    height: 17px;
+}
+
+.contacts {
+    width: 85px;
+    height: 17px;
+}
+
+.search {
+    width: 24px;
+    height: 24px;
+    background: url("../Images/Header/search.svg")no-repeat center center;
+    background-size: 100% 100%;
+}

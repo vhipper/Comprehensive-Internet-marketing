@@ -1,0 +1,116 @@
+
+.cover {
+    display: flex;
+    position: absolute;
+    width: 1600px;
+    height: 716px;
+    left: 0;
+    top: 184px;
+    backdrop-filter: blur(1px);
+    background: url("../Images/Cover/fill.svg")no-repeat center center;
+    background-size: cover;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 52px;
+    width: 780px;
+    height: 336px;
+    margin-left: 200px;
+    margin-top: 170px;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 28px;
+    width: 780px;
+    height: 222px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.internet-marketing, .We-help-businesses {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+.internet-marketing {
+    width: 780px;
+    height: 150px;
+    font-weight: 700;
+    font-size: 68px;
+    line-height: 110%;
+}
+
+.We-help-businesses {
+    margin-top: -10%;
+    width: 780px;
+    height: 44px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+}
+
+.buttons {
+    display: flex;
+    margin-top: 58px;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0;
+    gap: 32px;
+    width: 735px;
+    height: 62px;
+}
+
+.btn1, .btn2 {
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 20px 40px;
+    gap: 10px;
+}
+
+.btn1:hover, .btn2:hover  {
+    transform: scale(1.1);
+}
+
+.btn1 {
+    width: 362px;
+    height: 62px;
+    background: #FF5900;
+    border-radius: 100px;
+    border: none;
+}
+
+.btn2 {
+    display: flex;
+    flex-direction: row;
+    width: 345px;
+    height: 62px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid #FFFFFF;
+    border-radius: 100px;
+}
+
+.btn2 span, .btn1 span {
+    width: 282px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.btn2 span {
+    left: 440px;
+}

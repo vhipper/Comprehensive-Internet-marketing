@@ -1,0 +1,123 @@
+
+
+.Our-team {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 60px;
+    position: absolute;
+    width: 1200px;
+    height: 532px;
+    left: 200px;
+    top: 5665px;
+}
+
+.Our-team-text {
+    width: 304px;
+    height: 46px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 120%;
+    color: #212121;
+}
+
+.Our-team-cards {
+    position: absolute;
+    top: 120px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0;
+    gap: 60px;
+    width: 1200px;
+    height: 426px;
+}
+
+.Our-team-card-1,.Our-team-card-2, .Our-team-card-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 20px;
+    width: 360px;
+    height: 426px;
+}
+
+.Our-team-card1-img {
+    width: 360px;
+    height: 360px;
+    background: url("../Images/Our-team/Sheila.svg");
+}
+
+.Our-team-card2-img {
+    width: 360px;
+    height: 360px;
+    background: url("../Images/Our-team/Heather.svg");
+}
+
+.Our-team-card3-img {
+    width: 360px;
+    height: 360px;
+    background: url("../Images/Our-team/Brittany.svg");
+}
+
+.Our-team-card-1-name, .Our-team-card-2-name, .Our-team-card-3-name {
+    position: absolute;
+    top: 360px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    color: #333333;
+}
+
+.Our-team-card-1-name {
+    width: 117px;
+    height: 22px;
+}
+
+.Our-team-card-2-name {
+    width: 144px;
+    height: 22px;
+}
+
+.Our-team-card-3-name {
+    width: 116px;
+    height: 22px;
+}
+
+.Our-team-card-post-1, .Our-team-card-post-2, .Our-team-card-post-3 {
+    position: absolute;
+    top: 390px;
+    width: 83px;
+    height: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%;
+    text-align: center;
+    color: #212121;
+}
+
+.Our-team-card-post-1 {
+    left: 0;
+    font-size: 14px;
+    opacity: 0.5;
+}
+
+.Our-team-card-post-2 {
+    left: 420px;
+    font-size: 14px;
+    opacity: 0.5;
+}
+
+.Our-team-card-post-3 {
+    left: 840px;
+    font-size: 14px;
+    opacity: 0.5;
+}
+

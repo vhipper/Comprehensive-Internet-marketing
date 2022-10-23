@@ -1,0 +1,301 @@
+
+.Our-Cases-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 60px;
+    position: absolute;
+    width: 1200px;
+    height: 509px;
+    left: 200px;
+    top: 3825px;
+}
+
+.Our-Cases-text {
+    width: 538px;
+    height: 46px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 120%;
+    color: #212121;
+}
+
+.Our-Cases-content {
+    position: absolute;
+    top: 160px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 40px;
+    width: 1200px;
+    height: 403px;
+}
+
+.Our-Cases-card {
+    width: 1200px;
+    height: 361px;
+    background: #F4F4F4;
+}
+
+.Our-Cases-card-img {
+    position: absolute;
+    width: 96px;
+    height: 93px;
+    left: 1054px;
+    top: 40px;
+    background: url("../Images/Our-cases/Our-cases-image.svg");
+}
+
+.Our-Cases-card-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 30px;
+    position: absolute;
+    width: 1088px;
+    height: 271px;
+    left: 40px;
+    top: 40px;
+}
+
+.Text-about-the-company {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 20px;
+    width: 751px;
+    height: 89px;
+}
+
+.Text-about-the-company-p1 {
+    position: absolute;
+    top: -20px;
+    left: -10px;
+    width: 622px;
+    height: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 140%;
+    text-align: center;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    color: #212121;
+}
+
+.Text-about-the-company-p2 {
+    position: absolute;
+    top: 25px;
+    left: 15px;
+    width: 751px;
+    height: 44px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    color: #212121;
+}
+
+.Goals-and-results {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0;
+    gap: 60px;
+    width: 1088px;
+    height: 152px;
+}
+
+.Our-Cases-card-text-goals {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 12px;
+    width: 530px;
+    height: 152px;
+}
+
+.Our-Cases-card-text-goals-p1 {
+    position: absolute;
+    top: 94px;
+    left: 15px;
+    width: 44px;
+    height: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 140%;
+    color: #333333;
+    opacity: 0.5;
+}
+
+.Our-Cases-card-text-goals-p2, .Our-Cases-card-text-goals-li {
+    width: 530px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #212121;
+}
+
+.Our-Cases-card-text-goals-p2 {
+    position: absolute;
+    top: 126px;
+    left: 15px;
+    height: 120px;
+}
+
+.Our-Cases-card-text-goals-ul {
+    position: absolute;
+    top: 185px;
+    left: 0;
+}
+
+.Our-Cases-card-text-results {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 12px;
+    width: 498px;
+    height: 128px;
+}
+
+.Our-Cases-card-text-results-Text {
+    width: 80px;
+    height: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 140%;
+    color: #333333;
+    opacity: 0.5;
+}
+
+.Our-Cases-Progress {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 12px;
+    width: 498px;
+    height: 96px;
+}
+
+.Our-Cases-card-text-results-div-1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0;
+    gap: 15px;
+    width: 498px;
+    height: 42px;
+}
+
+.Our-Cases-card-text-results-div-1-p1 {
+    width: 78px;
+    height: 42px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 110%;
+    color: #FF5900;
+}
+
+.Our-Cases-card-text-results-div-1-p2 {
+    width: 405px;
+    height: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #212121;
+}
+
+.Our-Cases-card-text-results-div-2 {
+    position: absolute;
+    top: 170px;
+    left: 590px;
+    width: 498px;
+    height: 42px;
+}
+
+.Our-Cases-card-text-results-div-2-p1 {
+    position: absolute;
+    width: 75px;
+    height: 42px;
+    left: 0;
+    top: 54px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 110%;
+    color: #FF5900;
+}
+
+.Our-Cases-card-text-results-div-2-p1 b {
+    font-size: 38px;
+}
+
+.Our-Cases-card-text-results-div-2-p2 {
+    position: absolute;
+    width: 405px;
+    height: 20px;
+    left: 93px;
+    top: 62px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #212121;
+}
+
+.Our-Cases-card-line {
+    position: absolute;
+    width: 1px;
+    height: 160px;
+    left: 599px;
+    top: 159px;
+    background: #333333;
+    opacity: 0.2;
+}
+
+.Our-Cases-scrollbar {
+    width: 1200px;
+    height: 2px;
+}
+
+.Our-Cases-scrollbar-hr1 {
+    position: absolute;
+    width: 200px;
+    height: 2px;
+    left: 0;
+    top: 390px;
+    background: #333333;
+}
+
+.Our-Cases-scrollbar-hr2 {
+    position: absolute;
+    width: 1200px;
+    height: 2px;
+    left: 0;
+    top: 390px;
+    background: #333333;
+    opacity: 0.2;
+}

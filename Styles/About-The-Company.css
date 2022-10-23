@@ -1,0 +1,61 @@
+
+.About-The-Company {
+    position: absolute;
+    width: 1200px;
+    height: 350px;
+    left: 200px;
+    top: 5195px;
+}
+
+.About-The-Company-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 60px;
+    position: absolute;
+    width: 628px;
+    height: 238px;
+    left: 0;
+    top: 0;
+}
+
+.About-The-Company-text-p1 {
+    width: 252px;
+    height: 46px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 120%;
+    color: #212121;
+}
+
+.About-The-Company-text-p2 {
+    width: 628px;
+    height: 132px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    color: #212121;
+}
+
+.About-The-Company-div-img {
+    position: absolute;
+    width: 420px;
+    height: 350px;
+    left: 780px;
+    top: 0;
+    background: #F4F4F4;
+}
+
+.About-The-Company-img {
+    position: absolute;
+    width: 248px;
+    height: 260px;
+    left: 86px;
+    top: 45px;
+    background: url("../Images/About-the-company/About-the-company.svg");
+}

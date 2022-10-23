@@ -1,0 +1,180 @@
+
+.Achieving-the-result {
+    position: absolute;
+    width: 1200px;
+    height: 384px;
+    left: 200px;
+    top: 6297px;
+}
+
+.Achieving-the-resul-text1, .Achieving-the-resul-text2, .ATR-High-efficiency-p {
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    color: #212121;
+}
+
+.Achieving-the-resul-text1 {
+    width: 952px;
+    height: 46px;
+    top: 0;
+    left: 0;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 120%;
+}
+
+.Achieving-the-resul-text2 {
+    width: 116px;
+    height: 22px;
+    top: 100px;
+    left: 0;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+}
+
+.ATR-High-efficiency {
+    position: absolute;
+    width: 200px;
+    height: 90px;
+    top: 170px;
+    background: #F4F4F4;
+    border-right: 1px solid rgba(51, 51, 51, 0.2);
+}
+
+.ATR-High-efficiency-p {
+    width: 130px;
+    height: 60px;
+    left: 35px;
+    top: 0;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: center;
+}
+
+.ATR-Reliability {
+    position: absolute;
+    width: 1200px;
+    height: 240px;
+    left: 0;
+    top: 170px;
+    background: #333333;
+    border-right: 1px solid rgba(51, 51, 51, 0.2);
+}
+
+.ATR-Reliability-div {
+    position: absolute;
+    width: 200px;
+    height: 90px;
+    left: 200px;
+    top: 170px;
+    background: #333333;
+    border-right: 1px solid rgba(51, 51, 51, 0.2);
+}
+
+.ATR-Reliability-div-p, .ATR-Reliability-p,
+.ATR-Experience-p, .ATR-An-integrated-approach-p,
+.ATR-control-p, .ATR-Benefit-p {
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: center;
+}
+
+.ATR-Reliability-div-p {
+    width: 130px;
+    height: 20px;
+    left: 35px;
+    top: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.ATR-Reliability-p {
+    width: 650px;
+    height: 60px;
+    left: 275px;
+    top: 120px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.ATR-Experience {
+    position: absolute;
+    width: 200px;
+    height: 90px;
+    left: 400px;
+    top: 170px;
+    background: #F4F4F4;
+    border-right: 1px solid rgba(51, 51, 51, 0.2);
+}
+
+.ATR-Experience-p {
+    width: 130px;
+    height: 40px;
+    left: 35px;
+    top: 20px;
+    font-weight: 500;
+    text-align: center;
+    color: #212121;
+}
+
+.ATR-An-integrated-approach {
+    position: absolute;
+    width: 200px;
+    height: 90px;
+    left: 600px;
+    top: 170px;
+    background: #F4F4F4;
+    border-right: 1px solid rgba(51, 51, 51, 0.2);
+}
+
+.ATR-An-integrated-approach-p {
+    width: 130px;
+    height: 40px;
+    left: 35px;
+    top: 20px;
+    font-weight: 500;
+    color: #212121;
+}
+
+.ATR-control {
+    position: absolute;
+    width: 200px;
+    height: 90px;
+    left: 800px;
+    top: 170px;
+    background: #F4F4F4;
+    border-right: 1px solid rgba(51, 51, 51, 0.2);
+}
+
+.ATR-control-p {
+    width: 130px;
+    height: 20px;
+    left: 35px;
+    top: 20px;
+    font-weight: 500;
+    color: #212121;
+}
+
+.ATR-Benefit {
+    position: absolute;
+    width: 201px;
+    height: 90px;
+    left: 1000px;
+    top: 170px;
+    background: #F4F4F4;
+}
+
+.ATR-Benefit-p {
+    width: 130px;
+    height: 20px;
+    left: 35px;
+    top: 20px;
+    font-weight: 500;
+    color: #212121;
+}

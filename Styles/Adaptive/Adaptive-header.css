@@ -1,0 +1,707 @@
+
+@media (max-width: 1540px) {
+        header{
+            width: 1540px;
+            height: 184px;
+        }
+        .menu-down{
+            width: 1540px;
+        }
+        .menu {
+            width: 1300px;
+        }
+}
+
+
+@media (max-width: 1280px) {
+    header{
+        width: 1280px;
+        height: 184px;
+    }
+    .Logo {
+        margin-left: 90px;
+    }
+    .sell {
+        margin-left: 390px;
+    }
+    .Contact {
+        margin-left: 780px;
+    }
+    .menu-down{
+        width: 1280px;
+    }
+    .menu {
+        width: 1200px;
+        margin-left: 50px;
+    }
+    .increase-in-sales, .creating-websites, .support, .bitrix , .company, .reviews, .cases, .contacts, .search {
+        font-size: 12px;
+    }
+    .increase-in-sales {
+        width: 160px;
+    }
+
+    .creating-websites {
+        width: 140px;
+    }
+    .support {
+        width: 90px;
+    }
+
+    .bitrix {
+        width: 85px;
+    }
+
+    .company {
+        width: 100px;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    header{
+        width: 1024px;
+        height: 143px;
+    }
+    .Logo {
+        width: 170px;
+        height: 40px;
+        margin-top: 20px;
+        margin-left: 40px;
+    }
+    .sell {
+        margin-top: -35px;
+        margin-left: 270px;
+        font-size: 13px;
+    }
+    .Contact {
+        margin-left: 570px;
+    }
+    .number {
+        font-size: 13px;
+    }
+    .BtnCall {
+        margin-left: -20px;
+        padding: 14px 28px;
+        gap: 10px;
+        width: 200px;
+        height: 40px;
+    }
+    .BtnCall img {
+        margin-top: -2px;
+        margin-left: -5px;
+        width: 18px;
+    }
+    .BtnCall span {
+        margin-top: -5px;
+        width: 140px;
+        height: 20px;
+        font-size: 12px;
+    }
+    .menu-down{
+        width: 1024px;
+        height: 60px;
+        margin-top: 80px;
+    }
+    .menu {
+        margin-top: 20px;
+        width: 950px;
+        margin-left: 20px;
+    }
+    .increase-in-sales, .creating-websites, .support, .bitrix , .company, .reviews, .cases, .contacts, .search {
+        font-size: 10px;
+    }
+    .increase-in-sales {
+        width: 165px;
+    }
+
+    .creating-websites {
+        width: 140px;
+    }
+    .bitrix {
+        width: 85px;
+    }
+    .company {
+        width: 100px;
+    }
+    .search {
+        margin-left: -10px;
+    }
+}
+
+@media (max-width: 820px) {
+    header{
+        width: 820px;
+        height: 143px;
+    }
+    .Logo {
+        width: 140px;
+        height: 40px;
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+    .sell {
+        margin-top: -30px;
+        margin-left: 200px;
+        font-size: 11px;
+    }
+    .Contact {
+        margin-left: 400px;
+    }
+    .number {
+        font-size: 13px;
+    }
+    .BtnCall {
+        margin-left: -40px;
+        padding: 14px 28px;
+        gap: 10px;
+        width: 200px;
+        height: 40px;
+    }
+    .BtnCall img {
+        margin-top: -2px;
+        margin-left: -5px;
+        width: 18px;
+    }
+    .BtnCall span {
+        margin-top: -5px;
+        width: 140px;
+        height: 20px;
+        font-size: 12px;
+    }
+    .menu-down{
+        width: 820px;
+        height: 60px;
+        margin-top: 80px;
+    }
+    .menu {
+        margin-top: 20px;
+        width: 780px;
+        margin-left: 20px;
+        gap: 15px;
+    }
+    .increase-in-sales, .creating-websites, .support, .bitrix , .company, .reviews, .cases, .contacts, .search {
+        font-size: 10px;
+    }
+    .increase-in-sales {
+        width: 130px;
+    }
+
+    .creating-websites {
+        width: 110px;
+    }
+    .support {
+        width: 75px;
+    }
+    .bitrix {
+        width: 70px;
+    }
+    .company {
+        width: 80px;
+    }
+    .reviews {
+        width: 50px;
+    }
+    .cases {
+        width: 40px;
+    }
+    .contacts {
+        width: 60px;
+    }
+    .search {
+        width: 20px;
+        margin-top: -5px;
+        margin-left: 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    header{
+        width: 768px;
+        height: 120px;
+    }
+    .Logo {
+        width: 150px;
+        height: 35px;
+        margin-top: 15px;
+        margin-left: 20px;
+    }
+    .sell {
+        margin-top: -27px;
+        margin-left: 190px;
+        font-size: 11px;
+    }
+    .Contact {
+        margin-left: 360px;
+    }
+    .number {
+        font-size: 12px;
+    }
+    .BtnCall {
+        margin-left: -40px;
+        padding: 14px 28px;
+        gap: 10px;
+        width: 170px;
+        height: 40px;
+    }
+    .BtnCall img {
+        margin-top: -2px;
+        margin-left: -5px;
+        width: 16px;
+    }
+    .BtnCall span {
+        margin-top: -5px;
+        width: 140px;
+        height: 20px;
+        font-size: 10px;
+    }
+    .menu-down{
+        width: 768px;
+        height: 50px;
+        margin-top: 70px;
+    }
+    .menu {
+        margin-top: 15px;
+        width: 750px;
+        margin-left: 10px;
+        gap: 10px;
+    }
+    .increase-in-sales, .creating-websites, .support, .bitrix , .company, .reviews, .cases, .contacts, .search {
+        font-size:10px;
+    }
+    .search {
+        margin-top: -5px;
+    }
+}
+
+@media (max-width: 691px) {
+    header{
+        width: 690px;
+        height: 143px;
+    }
+    .Logo {
+        width: 125px;
+        margin-top: 15px;
+        margin-left: 20px;
+    }
+    .sell {
+        margin-top: -27px;
+        margin-left: 170px;
+        font-size: 10px;
+    }
+    .Contact {
+        margin-left: 270px;
+    }
+    .number {
+        font-size: 11px;
+    }
+    .BtnCall {
+        margin-left: -60px;
+        padding: 10px 15px;
+        width: 150px;
+        height: 35px;
+        gap: 5px;
+    }
+    .BtnCall img {
+        margin-left: -2px;
+        width: 14px;
+    }
+    .BtnCall span {
+        width: 150px;
+        height: 20px;
+        font-size: 10px;
+    }
+    .menu-down{
+        width: 690px;
+        height: 70px;
+        margin-top: 70px;
+    }
+    .menu {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 12px;
+        width: 550px;
+        margin-left: 70px;
+        gap: 10px;
+    }
+    .increase-in-sales, .creating-websites, .support, .bitrix , .company, .reviews, .cases, .contacts, .search {
+        font-size: 10px;
+    }
+    .search {
+        width: 15px;
+        margin-top: -5px;
+    }
+}
+
+@media (max-width: 600px) {
+    header{
+        width: 600px;
+        height: 180px;
+    }
+    .Logo {
+        width: 120px;
+        margin-top: 20px;
+        margin-left: 70px;
+    }
+    .sell {
+        margin-top: 10px;
+        margin-left: 30px;
+        font-size: 11px;
+    }
+    .Contact {
+        margin-top: -80px;
+        margin-left: 180px;
+    }
+    .number {
+        font-size: 11px;
+    }
+    .BtnCall {
+        margin-left: -60px;
+        padding: 10px 15px;
+        width: 150px;
+        height: 35px;
+        gap: 5px;
+    }
+    .BtnCall img {
+        margin-left: -2px;
+        width: 14px;
+    }
+    .BtnCall span {
+        width: 150px;
+        height: 20px;
+        font-size: 10px;
+    }
+    .menu-down{
+        width: 600px;
+        height: 70px;
+        margin-top: 110px;
+    }
+    .menu {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 12px;
+        width: 500px;
+        margin-left: 50px;
+        gap: 10px;
+    }
+    .increase-in-sales, .creating-websites, .support, .bitrix , .company, .reviews, .cases, .contacts, .search {
+        font-size: 10px;
+    }
+    .search {
+        width: 15px;
+        margin-top: -5px;
+    }
+}
+
+@media (max-width: 500px) {
+    header{
+        width: 500px;
+        height: 160px;
+    }
+    .Logo {
+        width: 120px;
+        margin-top: 15px;
+        margin-left: 60px;
+    }
+    .sell {
+        margin-top: 10px;
+        margin-left: 20px;
+        font-size: 10px;
+    }
+    .Contact {
+        margin-top: -85px;
+        margin-left: 70px;
+    }
+    .number {
+        margin-top: 80px;
+        font-size: 11px;
+    }
+    .BtnCall {
+        margin-left: -205px;
+        padding: 10px 15px;
+        width: 150px;
+        height: 35px;
+        gap: 5px;
+    }
+    .BtnCall img {
+        margin-top: 1px;
+        margin-left: -2px;
+        width: 14px;
+    }
+    .BtnCall span {
+        margin-top: -2px;
+        width: 150px;
+        height: 20px;
+        font-size: 10px;
+    }
+    .menu-down{
+        width: 500px;
+        height: 70px;
+        margin-top: 90px;
+    }
+    .menu {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 12px;
+        width: 480px;
+        margin-left: 10px;
+        gap: 10px;
+    }
+    .increase-in-sales, .creating-websites, .support, .bitrix , .company, .reviews, .cases, .contacts, .search {
+        font-size: 10px;
+    }
+    .search {
+        width: 15px;
+        margin-top: -5px;
+    }
+}
+
+@media (max-width: 420px) {
+    header{
+        width: 420px;
+        height: 160px;
+    }
+    .Logo {
+        width: 120px;
+        margin-top: 15px;
+        margin-left: 60px;
+    }
+    .sell {
+        margin-top: 10px;
+        margin-left: 20px;
+        font-size: 10px;
+    }
+    .Contact {
+        margin-top: -78px;
+        margin-left: -2px;
+    }
+    .number {
+        margin-top: 65px;
+        font-size: 11px;
+    }
+    .BtnCall {
+        margin-left: -200px;
+        padding: 10px 15px;
+        width: 140px;
+        height: 30px;
+        gap: 5px;
+    }
+    .BtnCall img {
+        margin-top: -2px;
+        margin-left: -2px;
+        width: 14px;
+    }
+    .BtnCall span {
+        margin-top: -5px;
+        width: 150px;
+        height: 20px;
+        font-size: 10px;
+    }
+    .menu-down{
+        width: 420px;
+        height: 70px;
+        margin-top: 95px;
+    }
+    .menu {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 12px;
+        width: 400px;
+        margin-left: 10px;
+        gap: 10px;
+    }
+    .increase-in-sales, .creating-websites, .support, .bitrix , .company, .reviews, .cases, .contacts, .search {
+        font-size: 10px;
+    }
+    .search {
+        width: 15px;
+        margin-top: -5px;
+    }
+}
+
+@media (max-width: 400px) {
+    header{
+        width: 400px;
+        height: 133px;
+    }
+    .Logo {
+        width: 110px;
+        margin-top: 10px;
+        margin-left: 40px;
+    }
+    .sell {
+        margin-top: -1px;
+        margin-left: 10px;
+        font-size: 9px;
+    }
+    .Contact {
+        margin-top: -78px;
+        margin-left: -30px;
+    }
+    .number {
+        margin-top: 65px;
+        font-size: 10px;
+    }
+    .BtnCall {
+        margin-left: -200px;
+        padding: 10px 15px;
+        width: 135px;
+        height: 25px;
+        gap: 5px;
+    }
+    .BtnCall img {
+        margin-top: -4px;
+        margin-left: -2px;
+        width: 14px;
+    }
+    .BtnCall span {
+        margin-top: -8px;
+        width: 150px;
+        height: 20px;
+        font-size: 10px;
+    }
+    .menu-down{
+        width: 400px;
+        height: 60px;
+        margin-top: 70px;
+    }
+    .menu {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 12px;
+        width: 350px;
+        margin-left: 20px;
+        gap: 5px;
+    }
+    .increase-in-sales, .creating-websites, .support, .bitrix , .company, .reviews, .cases, .contacts, .search {
+        font-size: 8px;
+    }
+    .increase-in-sales {
+        width: 110px;
+    }
+
+    .creating-websites {
+        width: 90px;
+    }
+    .support {
+        width: 60px;
+    }
+    .bitrix {
+        width: 55px;
+    }
+    .company {
+        width: 65px;
+    }
+    .reviews {
+        width: 40px;
+    }
+    .cases {
+        width: 32px;
+    }
+    .contacts {
+        width: 50px;
+    }
+    .search {
+        width: 15px;
+        margin-top: -5px;
+    }
+}
+
+@media (max-width: 360px) {
+    header{
+        width: 360px;
+        height: 130px;
+    }
+    .Logo {
+        width: 100px;
+        margin-top: 10px;
+        margin-left: 40px;
+    }
+    .sell {
+        margin-top: -1px;
+        margin-left: 10px;
+        font-size: 8px;
+    }
+    .Contact {
+        margin-top: -78px;
+        margin-left: -50px;
+    }
+    .number {
+        margin-top: 65px;
+        font-size: 9px;
+    }
+    .BtnCall {
+        margin-left: -200px;
+        padding: 10px 15px;
+        width: 120px;
+        height: 20px;
+        gap: 5px;
+    }
+    .BtnCall img {
+        margin-top: -6px;
+        margin-left: -2px;
+        width: 12px;
+    }
+    .BtnCall span {
+        margin-top: -10px;
+        width: 150px;
+        height: 20px;
+        font-size: 8px;
+    }
+    .menu-down{
+        width: 360px;
+        height: 60px;
+        margin-top: 70px;
+    }
+    .menu {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 12px;
+        width: 320px;
+        margin-left: 10px;
+        gap: 5px;
+    }
+    .increase-in-sales, .creating-websites, .support, .bitrix , .company, .reviews, .cases, .contacts, .search {
+        font-size: 8px;
+    }
+    .search {
+        width: 15px;
+        margin-top: -5px;
+    }
+    .increase-in-sales {
+        width: 105px;
+    }
+
+    .creating-websites {
+        width: 90px;
+    }
+    .support {
+        width: 60px;
+    }
+    .bitrix {
+        width: 55px;
+    }
+    .company {
+        width: 65px;
+    }
+    .reviews {
+        width: 40px;
+    }
+    .cases {
+        width: 32px;
+    }
+    .contacts {
+        width: 50px;
+    }
+    .search {
+        width: 15px;
+        margin-top: -5px;
+        margin-left: 10px;
+    }
+}

@@ -1,0 +1,238 @@
+
+.footer {
+    position: absolute;
+    width: 1600px;
+    height: 583px;
+    left: 0;
+    top: 10068px;
+    background: #333333;
+}
+
+.footer-logo {
+    position: absolute;
+    width: 185px;
+    height: 48px;
+    left: 200px;
+    top: 100px;
+    background: url("../Images/footer/footer-logo.svg")no-repeat center center;
+    background-size: 100% 100%;
+}
+
+.footer-Region {
+    position: absolute;
+    width: 130px;
+    height: 24px;
+    left: 200px;
+    top: 205px;
+}
+
+.footer-Region-p1 {
+    position: absolute;
+    width: 93px;
+    height: 24px;
+    left: 0;
+    top: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 170%;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.footer-Region-a {
+    cursor: pointer;
+    position: absolute;
+    top: 18px;
+    left: 102px;
+    width: 33px;
+    height: 14px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    color: #FFFFFF;
+}
+
+.footer-city, .footer-number, .footer-inn, .footer-ogrn {
+    width: 200px;
+    height: 48px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 170%;
+    color: #FFFFFF;
+}
+
+
+.footer-column1-ul, .footer-column2-ul, .footer-column3-ul {
+    position: absolute;
+    top: 50px;
+    left: -40px;
+}
+
+
+.footer-social-vk, .footer-social-telegram {
+    width: 40px;
+    height: 40px;
+}
+
+
+.footer-column1-p, .footer-column2-p, .footer-column3-p {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.footer-company, .footer-map {
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 120%;
+    color: #FFFFFF;
+    opacity: 0.3;
+}
+
+.footer-number {
+    position: absolute;
+    left: 200px;
+    top: 249px;
+}
+
+.footer-city {
+    position: absolute;
+    left: 200px;
+    top: 270px;
+}
+
+.footer-inn {
+    position: absolute;
+    width: 158px;
+    left: 199px;
+    top: 309px;
+    opacity: 0.5;
+}
+
+.footer-ogrn {
+    position: absolute;
+    width: 158px;
+    left: 199px;
+    top: 330px;
+    opacity: 0.5;
+}
+
+.footer-social {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0;
+    gap: 20px;
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    left: 200px;
+    top: 400px;
+}
+
+.footer-social-vk {
+    background: url("../Images/footer/vk.svg")no-repeat center center;
+    background-size: 100% 100%;
+    border: none;
+}
+
+.footer-social-telegram {
+    background: url("../Images/footer/telegram.svg")no-repeat center center;
+    background-size: 100% 100%;
+    border: none;
+}
+
+.footer-column1, .footer-column2, .footer-column3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 24px;
+    position: absolute;
+}
+
+.footer-column1-li, .footer-column2-li, .footer-column3-li {
+    width: 200px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 170%;
+    color: #FFFFFF;
+    list-style-type: none;
+}
+
+.footer-column1 {
+    width: 130px;
+    height: 300px;
+    left: 560px;
+    top: 85px;
+}
+
+.footer-column1-p {
+    width: 204px;
+    height: 40px;
+}
+
+
+.footer-column2 {
+    width: 210px;
+    height: 280px;
+    left: 895px;
+    top: 85px;
+}
+
+.footer-column2-p {
+    width: 210px;
+    height: 40px;
+}
+
+.footer-column3 {
+    width: 188px;
+    height: 170px;
+    left: 1212px;
+    top: 85px;
+}
+
+.footer-column3-p {
+    width: 128px;
+    height: 40px;
+}
+
+.footer-hr {
+    position: absolute;
+    width: 1200px;
+    height: 1px;
+    left: 200px;
+    top: 532px;
+    background: #FFFFFF;
+    opacity: 0.1;
+}
+
+.footer-company {
+    top: 545px;
+    left: 199px;
+    width: 248px;
+    height: 14px;
+}
+
+.footer-map {
+    top: 545px;
+    left: 1110px;
+    width: 290px;
+    height: 14px;
+}

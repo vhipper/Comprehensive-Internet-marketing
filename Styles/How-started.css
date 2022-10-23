@@ -1,0 +1,200 @@
+
+
+.How-started {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 60px;
+    position: absolute;
+    width: 1200px;
+    height: 476px;
+    left: 200px;
+    top: 7950px;
+}
+
+.How-started-text {
+    width: 573px;
+    height: 46px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 120%;
+    color: #212121;
+}
+
+.How-started-content {
+    position: absolute;
+    top: 60px;
+    width: 1200px;
+    height: 370px;
+}
+
+.How-started-content-Application {
+    position: absolute;
+    width: 1200px;
+    height: 370px;
+    left: 0;
+    top: 106px;
+    background: #FFFFFF;
+    border: 1px solid rgba(51, 51, 51, 0.2);
+}
+
+.How-started-content-Application-div {
+    box-sizing: border-box;
+    position: absolute;
+    width: 240px;
+    height: 90px;
+    left: 0;
+    top: 0;
+    background: #FF5900;
+    border-right: 1px solid rgba(51, 51, 51, 0.2);
+}
+
+.How-started-content-Application-div-p {
+    position: absolute;
+    width: 130px;
+    height: 20px;
+    left: 50px;
+    top: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.How-started-content-Application-img {
+    position: absolute;
+    width: 267px;
+    height: 258px;
+    left: 863px;
+    top: 112px;
+    background: url("../Images/How-started/How-started.svg");
+}
+
+.How-started-content-Commercial-proposal {
+    position: absolute;
+    width: 240px;
+    height: 90px;
+    left: 240px;
+    top: 106px;
+    background: #F4F4F4;
+    border-right: 1px solid rgba(51, 51, 51, 0.2);
+}
+
+.How-started-content-Commercial-proposal-p {
+    position: absolute;
+    width: 130px;
+    height: 40px;
+    left: 55px;
+    top: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: center;
+    color: #212121;
+}
+
+.How-started-content-Start-work {
+    position: absolute;
+    width: 240px;
+    height: 90px;
+    left: 480px;
+    top: 106px;
+    background: #F4F4F4;
+    border-right: 1px solid rgba(51, 51, 51, 0.2);
+}
+
+.How-started-content-Start-work-p {
+    position: absolute;
+    width: 130px;
+    height: 20px;
+    left: 55px;
+    top: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: center;
+    color: #212121;
+}
+
+.How-started-content-Quality-control {
+    position: absolute;
+    width: 240px;
+    height: 90px;
+    left: 720px;
+    top: 106px;
+    background: #F4F4F4;
+    border-right: 1px solid rgba(51, 51, 51, 0.2);
+}
+
+.How-started-content-Quality-control-p {
+    position: absolute;
+    width: 200px;
+    height: 20px;
+    left: 20px;
+    top: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: center;
+    color: #212121;
+}
+
+.How-started-content-Guaranteed-result {
+    position: absolute;
+    width: 241px;
+    height: 90px;
+    left: 960px;
+    top: 106px;
+    background: #F4F4F4;
+    border-right: 1px solid rgba(51, 51, 51, 0.2);
+}
+
+.How-started-content-Guaranteed-result-p {
+    position: absolute;
+    width: 184px;
+    height: 40px;
+    left: 28px;
+    top: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: center;
+    color: #212121;
+}
+
+.How-started-content-text {
+    position: absolute;
+    width: 684px;
+    height: 180px;
+    left: 40px;
+    top: 236px;
+}
+
+.How-started-content-text-p, .How-started-content-text-ul-li {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #212121;
+}
+
+.How-started-content-text-ul {
+    position: absolute;
+    top: 20px;
+    left: -25px;
+}

@@ -1,0 +1,134 @@
+.Our-clients {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 60px;
+    position: absolute;
+    width: 1202px;
+    height: 272px;
+    left: 200px;
+    top: 6800px;
+}
+
+.Our-clients-text {
+    position: absolute;
+    top: 0;
+    width: 310px;
+    height: 46px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 120%;
+    color: #212121;
+}
+
+.Our-clients-logo {
+    position: absolute;
+    top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 30px;
+    width: 1202px;
+    height: 166px;
+}
+
+.Our-clients-line-1{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0;
+    gap: 30px;
+    width: 1202px;
+    height: 68px;
+}
+
+.Oriflame, .ConsultantPlus, .Paperweight-Ball,
+.Uralsib-Bank, .Eastern-Bank, .Quadrum,
+.Skoda, .Golden{
+    width: 278px;
+    height: 68px;
+}
+
+.Oriflame-icon {
+    position: absolute;
+    width: 204px;
+    height: 50px;
+    left: 37px;
+    top: 10px;
+    opacity: 0.7;
+    background: url("../Images/Our-clients/Oriflame.svg");
+}
+
+.ConsultantPlus-icon {
+    position: absolute;
+    width: 239px;
+    height: 67px;
+    left: 327px;
+    top: 1px;
+    background: url("../Images/Our-clients/ConsultantPlus.svg");
+    opacity: 0.7;
+}
+
+.Paperweight-icon {
+    position: absolute;
+    width: 256px;
+    height: 67px;
+    left: 627px;
+    top: 1px;
+    background: url("../Images/Our-clients/Paperweight.svg");
+    opacity: 0.7;
+}
+
+.Uralsib-icon {
+    position: absolute;
+    width: 253px;
+    height: 65px;
+    left: 936px;
+    top: 2px;
+    background: url("../Images/Our-clients/Uralsib-Bank.svg");
+    opacity: 0.7;
+}
+
+.Eastern-icon {
+    position: absolute;
+    width: 242px;
+    height: 29px;
+    left: 18px;
+    top: 118px;
+    background: url("../Images/Our-clients/Eastern-Bank.svg");
+    opacity: 0.7;
+}
+
+.Quadrum-icon {
+    position: absolute;
+    width: 239px;
+    height: 47px;
+    left: 327px;
+    top: 109px;
+    background: url("../Images/Our-clients/Quadrum.svg");
+    opacity: 0.7;
+}
+
+.Skoda-icon {
+    position: absolute;
+    width: 253px;
+    height: 67px;
+    left: 628px;
+    top: 100px;
+    background: url("../Images/Our-clients/Skoda.svg");
+    opacity: 0.6;
+}
+
+.Golden-icon {
+    position: absolute;
+    width: 257px;
+    height: 43px;
+    left: 934px;
+    top: 111px;
+    background: url("../Images/Our-clients/Golden.svg");
+    opacity: 0.7;
+}

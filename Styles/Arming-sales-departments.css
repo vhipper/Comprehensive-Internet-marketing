@@ -1,0 +1,102 @@
+
+.Arming-sales-departments {
+    position: absolute;
+    width: 1190px;
+    height: 544px;
+    left: 200px;
+    top: 8633px;
+}
+
+.Arming-sales-departments-img {
+    position: absolute;
+    width: 360px;
+    height: 544px;
+    left: 0;
+    top: 0;
+    background: url("../Images/Arming-sales-departments/Arming-sales-departments.svg");
+}
+
+.Arming-sales-departments-content {
+    position: absolute;
+    width: 770px;
+    height: 292px;
+    left: 0;
+    top: 0;
+}
+
+.Arming-sales-departments-content-p1 {
+    position: absolute;
+    width: 675px;
+    height: 46px;
+    left: 420px;
+    top: 90px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 120%;
+    color: #212121;
+}
+
+.Arming-sales-departments-content-p2 {
+    position: absolute;
+    width: 360px;
+    height: 110px;
+    left: 420px;
+    top: 220px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    color: #212121;
+    opacity: 0.5;
+}
+
+.Arming-sales-departments-content-p3 {
+    position: absolute;
+    width: 350px;
+    height: 88px;
+    left: 840px;
+    top: 220px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    color: #212121;
+}
+
+.Arming-sales-departments-content-btn {
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 20px 40px;
+    gap: 10px;
+    position: absolute;
+    width: 303px;
+    height: 62px;
+    left: 840px;
+    top: 375px;
+    background: #FF5900;
+    border-radius: 100px;
+    border: none;
+}
+
+.Arming-sales-departments-content-btn:hover {
+    transform: scale(1.1);
+}
+
+.Arming-sales-departments-content-btn-span {
+    position: absolute;
+    top: 20px;
+    width: 223px;
+    height: 22px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}

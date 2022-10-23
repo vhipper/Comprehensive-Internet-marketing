@@ -1,0 +1,139 @@
+
+.Advantages {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 60px;
+    position: absolute;
+    width: 1200px;
+    height: 466px;
+    left: 200px;
+    top: 1733px;
+}
+
+.Advantages h1 {
+    width: 628px;
+    height: 46px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 120%;
+    color: #212121;
+}
+
+.Advantages-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 40px;
+    width: 1200px;
+    height: 360px;
+}
+
+.line {
+    margin-left: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 0;
+    gap: 40px;
+    width: 1100px;
+    height: 160px;
+}
+
+.Increasing-sales, .Waiting-for-customers,
+.Modern-technologies, .Letters,
+.Reputation, .Goals {
+    width: 340px;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+}
+
+.Increasing-sales p, .Modern-technologies p,
+.Waiting-for-customers p, .Letters p,
+.Reputation p, .Goals p{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    color: #333333;
+}
+
+.Increasing-sales-content-img, .Modern-technologies-content-img,
+.Waiting-for-customers-content-img, .Letters-content-img,
+.Reputation-content-img, .Goals-content-img {
+    width: 70px;
+    height: 110px;
+}
+
+.Increasing-sales-content-img {
+    background: url("../Images/Advantages/Increasing-sales.svg")no-repeat center center;
+    background-size: 100% 100%;
+}
+
+.Modern-technologies-content-img {
+    background: url("../Images/Advantages/Modern-technologies.svg")no-repeat center center;
+    background-size: 100% 100%;
+}
+
+.Waiting-for-customers-content-img {
+    background: url("../Images/Advantages/Waiting-for-customers.svg")no-repeat center center;
+    background-size: 100% 100%;
+    opacity: 0.3;
+}
+
+.Letters-content-img {
+    background: url("../Images/Advantages/Letters-content.svg")no-repeat center center;
+    background-size: 100% 100%;
+    opacity: 0.3;
+}
+
+
+.Reputation-content-img {
+    background: url("../Images/Advantages/Reputation-content.svg")no-repeat center center;
+    background-size: 100% 100%;
+    opacity: 0.3;
+}
+
+.Goals-content-img {
+    background: url("../Images/Advantages/Goals-content.svg")no-repeat center center;
+    background-size: 100% 100%;
+}
+
+.Increasing-sales p {
+    width: 270px;
+    height: 44px;
+}
+
+.Modern-technologies p {
+    width: 331px;
+    height: 44px;
+}
+
+.Waiting-for-customers p {
+    width: 311px;
+    height: 44px;
+}
+
+.Letters-content p {
+    width: 287px;
+    height: 44px;
+}
+
+.Reputation-content p {
+    width: 215px;
+    height: 44px;
+}
+
+.Goals-content p {
+    width: 289px;
+    height: 44px;
+}
